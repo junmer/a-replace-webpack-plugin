@@ -1,0 +1,28 @@
+{
+  "name": "a-replace-webpack-plugin",
+  "version": "0.0.1",
+  "description": "a replace webpack plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junmer/a-replace-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "string",
+    "replace",
+    "plugin"
+  ],
+  "author": "junmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junmer/a-replace-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/junmer/a-replace-webpack-plugin#readme",
+  "dependencies": {
+    "webpack-sources": "^0.1.2"
+  }
+}
