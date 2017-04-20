@@ -7,11 +7,11 @@ a replace plugin for webpack
 
 ```javascript
 
-var RepalcePlugin = require("a-replace-webpack-plugin");
+var ReplacePlugin = require("a-replace-webpack-plugin");
 
 module.exports = {
     plugins: [
-        new RepalcePlugin({
+        new ReplacePlugin({
             test: /\.css/,
             from: /{#feRoot#}/,
             to: '../../'
